@@ -30,7 +30,7 @@ Assets/_Project/Profiles — асети Input System та екземпляри S
 
 Pitch & Roll (нахил вперед/назад/вбік): W / A / S / D
 
-Collective (зліт / посадка / висота): Space / Ctrl (або Shift)
+Collective (зліт / посадка / висота): Space / Ctrl
 
 Yaw (поворот навколо осі): Q / E
 
